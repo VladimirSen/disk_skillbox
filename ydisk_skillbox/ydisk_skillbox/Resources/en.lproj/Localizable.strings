@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+*/
+"Далее" = "Next";
+"Теперь все ваши документы в одном месте" = "Now all your documents are in one place";
+"Доступ к файлам без интернета" = "Access to files without the Internet";
+"Делитесь Вашими файлами с другими" = "Share your files with others";
+"Опубликованные файлы                >" = "Published files                                 >";
+"Нет подключения к интернету!" = "No Internet connection!";
+"Выйти" = "Exit";
+"Выход" = "Exit";
+"Профиль" = "Profile";
+"Отмена" = "Cancel";
+"МБ" = "MB";
+"ГБ" = "GB";
+"ГБ - занято" = "GB - busy";
+"ГБ - свободно" = "GB - free";
+"Не удалось получить данные" = "Failed to get data";
+"Вы уверены, что хотите выйти? Все локальные данные будут удалены!" = "Are you sure you want to log out? All local data will be deleted!";
+"Да" = "Yes";
+"Нет" = "No";
+"У вас пока нет опубликованных файлов" = "You don't have any published files yet";
+"Обновить" = "Update";
+"Опубликованные файлы" = "Published files";
+"Ошибка" = "Error";
+"Нет подключения к интернету!\nОтображаются файлы последней загрузки." = "No Internet connection!\nThe most recently downloaded files are displayed.";
+"Данная папка не содержит файлов." = "This folder contains no files.";
+"Убрать публикацию" = "Remove post";
+"Последние" = "Last files";
+"Переименовать" = "Rename";
+"Готово" = "Ready";
+"Нет подключения к интернету!\nПодключитесь, чтобы просмотреть файл." = "No Internet connection!\nConnect to view the file.";
+"Поделиться" = "Share";
+"Файлом" = "File";
+"Ссылкой" = "Link";
+"Данный файл будет удален" = "This file will be deleted";
+"Удалить файл" = "Delete file";
+"Все файлы" = "All files";
+"Вероятно, соединение с интернетом прервано." = "The Internet connection appears to be offline.";
+"Нет подключения к интернету!\nПодключитесь, чтобы просмотреть cодержимое папки." = "No Internet connection!\nConnect to view the contents of the folder.";

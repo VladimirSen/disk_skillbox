@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+*/
+"Далее" = "Weiter";
+"Теперь все ваши документы в одном месте" = "Jetzt sind alle Ihre Dokumente an einem Ort";
+"Доступ к файлам без интернета" = "Zugriff auf Dateien ohne Internet";
+"Делитесь Вашими файлами с другими" = "Teilen Sie Ihre Dateien mit anderen";
+"Опубликованные файлы                >" = "Veröffentlichte Dateien                    >";
+"Нет подключения к интернету!" = "Keine Internetverbindung!";
+"Выйти" = "Beenden";
+"Выход" = "Beenden";
+"Профиль" = "Profil";
+"Отмена" = "Abbrechen";
+"МБ" = "MB";
+"ГБ" = "GB";
+"ГБ - занято" = "GB – beschäftigt";
+"ГБ - свободно" = "GB – kostenlos";
+"Не удалось получить данные" = "Daten konnten nicht abgerufen werden";
+"Вы уверены, что хотите выйти? Все локальные данные будут удалены!" = "Möchten Sie sich wirklich abmelden? Alle lokalen Daten werden gelöscht!";
+"Да" = "Ja";
+"Нет" = "Nein";
+"У вас пока нет опубликованных файлов" = "Sie haben noch keine veröffentlichten Dateien";
+"Обновить" = "Aktualisieren";
+"Опубликованные файлы" = "Veröffentlichte Dateien";
+"Ошибка" = "Fehler";
+"Нет подключения к интернету!\nОтображаются файлы последней загрузки." = "Keine Internetverbindung!\nDie zuletzt heruntergeladenen Dateien werden angezeigt.";
+"Данная папка не содержит файлов." = "Dieser Ordner enthält keine Dateien.";
+"Убрать публикацию" = "Beitrag entfernen";
+"Последние" = "Neueste";
+"Переименовать" = "Umbenennen";
+"Готово" = "Fertig";
+"Нет подключения к интернету!\nПодключитесь, чтобы просмотреть файл." = "Keine Internetverbindung!\nStellen Sie eine Verbindung her, um die Datei anzuzeigen.";
+"Поделиться" = "Teilen";
+"Файлом" = "Datei";
+"Ссылкой" = "Link";
+"Данный файл будет удален" = "Diese Datei wird gelöscht";
+"Удалить файл" = "Datei löschen";
+"Все файлы" = "Alle Dateien";
+"Вероятно, соединение с интернетом прервано." = "Es besteht anscheinend keine Verbindung zum Internet.";
+"Нет подключения к интернету!\nПодключитесь, чтобы просмотреть cодержимое папки." = "Keine Internetverbindung!\nStellen Sie eine Verbindung her, um den Inhalt des Ordners anzuzeigen.";
