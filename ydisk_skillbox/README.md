@@ -24,13 +24,15 @@
 
 | Экран онбординга | Экран регистрации | Экран профиля |
 | :-------------: |:-------------:|:-------------:| 
-| <img src="https://github.com/VladimirSen/ydisk_skillbox/blob/main/ydisk_skillbox/ScreenShots/Screenshot_1.png" width="250"> | <img src="https://github.com/VladimirSen/ydisk_skillbox/blob/main/ydisk_skillbox/ScreenShots/Screenshot_2.png" width="250"> | <img src="https://github.com/VladimirSen/ydisk_skillbox/blob/main/ydisk_skillbox/ScreenShots/Screenshot_3.png" width="250"> |
+| <img src="https://github.com/VladimirSen/ydisk_skillbox/blob/main/ydisk_skillbox/ScreenShots/Screenshot_1.PNG" width="250"> | <img src="https://github.com/VladimirSen/ydisk_skillbox/blob/main/ydisk_skillbox/ScreenShots/Screenshot_2.PNG" width="250"> | <img src="https://github.com/VladimirSen/ydisk_skillbox/blob/main/ydisk_skillbox/ScreenShots/Screenshot_3.PNG" width="250"> |
+
 | Экран опубликованных файлов | Экран просмотра последних файлов | Экран просмотра всех файлов |
 | :-------------: |:-------------:|:-------------:| 
-| <img src="https://github.com/VladimirSen/ydisk_skillbox/blob/main/ydisk_skillbox/ScreenShots/Screenshot_4.png" width="250"> | <img src="https://github.com/VladimirSen/ydisk_skillbox/blob/main/ydisk_skillbox/ScreenShots/Screenshot_5.png" width="250"> | <img src="https://github.com/VladimirSen/ydisk_skillbox/blob/main/ydisk_skillbox/ScreenShots/Screenshot_6.png" width="250"> |
+| <img src="https://github.com/VladimirSen/ydisk_skillbox/blob/main/ydisk_skillbox/ScreenShots/Screenshot_4.PNG" width="250"> | <img src="https://github.com/VladimirSen/ydisk_skillbox/blob/main/ydisk_skillbox/ScreenShots/Screenshot_5.PNG" width="250"> | <img src="https://github.com/VladimirSen/ydisk_skillbox/blob/main/ydisk_skillbox/ScreenShots/Screenshot_6.PNG" width="250"> |
+
 | Экран просмотра картинки | Экран детального просмотра файла | Экран просмотра видео |
 | :-------------: |:-------------:|:-------------:| 
-| <img src="https://github.com/VladimirSen/ydisk_skillbox/blob/main/ydisk_skillbox/ScreenShots/Screenshot_7.png" width="250"> | <img src="https://github.com/VladimirSen/ydisk_skillbox/blob/main/ydisk_skillbox/ScreenShots/Screenshot_8.png" width="250"> | <img src="https://github.com/VladimirSen/ydisk_skillbox/blob/main/ydisk_skillbox/ScreenShots/Screenshot_9.png" width="250"> |
+| <img src="https://github.com/VladimirSen/ydisk_skillbox/blob/main/ydisk_skillbox/ScreenShots/Screenshot_7.PNG" width="250"> | <img src="https://github.com/VladimirSen/ydisk_skillbox/blob/main/ydisk_skillbox/ScreenShots/Screenshot_8.PNG" width="250"> | <img src="https://github.com/VladimirSen/ydisk_skillbox/blob/main/ydisk_skillbox/ScreenShots/Screenshot_9.PNG" width="250"> |
 
 ## Требования
 * iOS 13 и выше
